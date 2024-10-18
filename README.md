@@ -1,43 +1,21 @@
-# 🌟 Project Name 🌟
+👋 About me
+Hello! I am [Tran Tuan Kiet], a programmer and technology enthusiast, currently a 3rd year student at HUFLIT University and you can also call me Tukie.
 
-> **Tagline**: Một câu miêu tả độc đáo hoặc khẩu hiệu cho dự án.
+💼 Professional experience
+I have worked on various projects, from web applications to mobile applications, with programming languages ​​and technologies such as:
 
-![Project Logo](link-to-logo.png)
+Languages: Java, JavaScript, Python, C#
+Framework: React, Angular, Spring Boot, .NET
+Database: MySQL, PostgreSQL, Firebase
 
-## 🚀 Mô tả dự án
+🎯 Career goals
+My goal is to continue learning and improving my skills in areas such as software development, system architecture, and artificial intelligence. I am always ready to take on new challenges and opportunities to develop myself as well as contribute to the success of the projects I participate in.
 
-Dự án **Project Name** là một giải pháp/ứng dụng sáng tạo giúp bạn [mục tiêu của dự án]. Nó được thiết kế để [chức năng chính] và cung cấp [giá trị nổi bật]. Với công nghệ hiện đại, dự án mang lại [lợi ích cho người dùng].
+🌱 Hobbies and interests
+Besides work, I am passionate about reading books about technology and management, and regularly participate in technology events such as hackathons and meetups. I also like the gym and running to stay healthy, especially basketball.
 
----
+✨ Favorite quote
+"Nothing is impossible if you are willing to learn and keep trying."
 
-## 🎯 Tính năng chính
-
-- ✨ **Tính năng 1**: Giúp bạn [mô tả tính năng 1].
-- ⚡ **Tính năng 2**: Cải thiện [mô tả tính năng 2].
-- 🎨 **Tính năng 3**: Tăng cường trải nghiệm [mô tả tính năng 3].
-- 🔒 **Bảo mật mạnh mẽ**: Đảm bảo rằng [tính năng bảo mật].
-
----
-
-## 🛠️ Công nghệ sử dụng
-
-Dự án được xây dựng trên các công nghệ và ngôn ngữ sau:
-
-- **Ngôn ngữ lập trình**: [Ngôn ngữ A, B]
-- **Framework**: [Tên framework]
-- **Cơ sở dữ liệu**: [Tên cơ sở dữ liệu]
-- **Triển khai**: [Nền tảng triển khai: Heroku, AWS, v.v.]
-  
----
-
-## 📦 Cài đặt
-
-### Yêu cầu hệ thống
-- **Hệ điều hành**: [OS hỗ trợ]
-- **Phiên bản ngôn ngữ**: [Phiên bản ngôn ngữ yêu cầu]
-
-### Bước cài đặt
-
-1. Clone dự án:
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
+Contact me: +84938574924
+            +tukie04022004@gmail.com
