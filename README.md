@@ -6,7 +6,7 @@ I have worked on various projects, from web applications to mobile applications,
 
 Languages: Java, JavaScript, Python, C#
 Framework: React, Angular, Spring Boot, .NET
-Database: MySQL, PostgreSQL, Firebase
+Database: MySQL, MongoDB, Firebase
 
 🎯 Career goals
 My goal is to continue learning and improving my skills in areas such as software development, system architecture, and artificial intelligence. I am always ready to take on new challenges and opportunities to develop myself as well as contribute to the success of the projects I participate in.
